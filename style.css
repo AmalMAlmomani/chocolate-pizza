@@ -14,6 +14,22 @@ margin: auto;
 #img{
 float: right;
 }
+.logo 
+{
+    margin-right: 7px;
+}
+#div2
+{
+    margin-top: 28px;
+}
+.line img
+{
+    width: 100%;
+}
+.main-content
+{
+    margin: auto 40px;
+}
 #h2 {
     /* display: inline-block;
     position: absolute;   */
@@ -47,7 +63,7 @@ padding: 0px;
     color: gray;
 }
 #column{
-    background-image: url(img/list-bg.png);
+    background-image: url(imag/list-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -75,10 +91,11 @@ input [type=checkbox]
 }
 #img2 {
     float: right;
-   background-color: rgb(236, 104, 10);
+    background-color: rgb(236, 104, 10);
     color: snow;
-    width:150px;
+    width: 150px;
     height: 50px;
+    margin-right: 15px;
 }
 h3{
      
@@ -95,4 +112,18 @@ margin: auto;
 footer{
     text-align: center;
     color: grey;
+}
+.footer-logo img {
+    position: relative;
+    left: 48%;
+    top: 28px;
+}
+footer {
+    text-align: center;
+    color: grey;
+    margin-top: 3%;
+}
+#vanessa img
+{
+    margin-right: 15px;
 }
