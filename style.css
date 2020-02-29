@@ -31,18 +31,17 @@ float: right;
     margin: auto 40px;
 }
 #h2 {
-    /* display: inline-block;
-    position: absolute;   */
-     /* margin: 0px;  */
+    
 line-height: 0px;
 padding:10px 10px ;
 font-family: 'Oswald' ;
+font-size: x-large;
 }
 #p2{
 padding: 0px;
-    margin: 0px;
-    color: gray;
-    font-size: xx-small;
+    margin: 10px 0px 15px 0px;
+    color: rgb(177, 174, 174);
+    font-size: small;
 }
 #div2 {
     float: right ;
@@ -55,7 +54,7 @@ padding: 0px;
 }
 #choco {
  width:100% ;
-/* padding: 100%; */
+
     text-align: center;
 }
 #par{
@@ -66,6 +65,8 @@ padding: 0px;
     background-image: url(imag/list-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
+   padding: 60px 60px 60px 20px;
     
     
 }
@@ -126,4 +127,12 @@ footer {
 #vanessa img
 {
     margin-right: 15px;
+}
+
+p.repeat{ 
+    background-image: url("imag/hr-img.png");
+    background-repeat: repeat;
+   margin: 40px 0px 30px 0px;
+    width:100%;
+   
 }
